@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Satisfy&display=swap');
+
+*{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Satisfy', cursive;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url('https://wallpaperwaifu.com/wp-content/uploads/2022/12/anime-girl-drawing-shooting-stars-thumb.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.txt1{
+    display: flexbox;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: aliceblue;
+    font-size: 110px;
+
+    text-align: center;
+
+    padding-top: 50px;
+}
+
